@@ -28,11 +28,8 @@ Gosto de **resolver problemas com código**, aprender coisas novas e estou const
 > Em breve vou organizar melhor meus repositórios, mas já dá pra ver alguns experimentos e estudos aqui no GitHub.
 
 - 🔹 [Meu portfólio](https://willskfg.github.io/portfolio-wills/)
-- 🔹 [Projeto 1 – coloque aqui um projeto que você curte](https://github.com/willskfg/ALGUMA_COISA)
-- 🔹 [Projeto 2 – outro projeto legal](https://github.com/willskfg/OUTRA_COISA)
-- 🔹 [Se tiver um projeto feito com Vibe Coding, pode colocar aqui!](https://github.com/willskfg/PROJETO_VIBE_CODING)
-- 🔹 [Se tiver algum script Python que interaja com Excel ou um projeto SQL de estudo, coloque aqui!](https://github.com/willskfg/PROJETO_SQL_EXCEL)
-
+- 🔹 [Projeto inacabado – Lista de Estudo em python](https://github.com/WillsKFG/Projeto-1---Lista-de-Estudo)
+- 🔹 [Primeira tentativa séria de html e css](https://github.com/WillsKFG/Site2.Perfil-Sailor-Moon)
 ---
 
 ## 📫 Como falar comigo
